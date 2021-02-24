@@ -72,8 +72,11 @@
             echo "<p> $output </p>";
         }
 ?>
+<section class="main">
+    <img src="phpshrek.png" alt="picture">
 
-<div class="image"> </div>
+</section>
+
 
 </body>
 </html>
